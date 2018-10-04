@@ -1,0 +1,35 @@
+.ui.centered.grid{
+  padding-top: 10px;
+  background-color: #724f47;
+}
+
+.ui.borderless.topmenu.menu {
+  background-color: #cfdfd9;
+  box-shadow: none;
+  border: none;
+}
+.ui.borderless.topmenu.menu a {
+  color: #689882;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.ui.borderless.middle.menu.menu {
+  box-shadow: none;
+  border: none;
+  margin-bottom: 50px;
+}
+
+
+.ui.four.column.container{
+  margin-top: 50px;
+  background-color: #cfdfd9;
+  color:white;
+}
+
+.footer-background {
+  background-color: #cfdfd9;
+  color: white;
+  height: 250px;
+  margin-top: 50px;
+}
