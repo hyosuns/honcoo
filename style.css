@@ -5,6 +5,8 @@
 
 .ui.borderless.topmenu.menu {
   background-color: #cfdfd9;
+  margin: none;
+  padding: none;
   box-shadow: none;
   border: none;
 }
