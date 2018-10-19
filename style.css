@@ -1,19 +1,19 @@
 .ui.centered.grid{
-  padding-top: 10px;
+  padding-top: 15px;
+  padding-bottom: 5px;
   background-color: #724f47;
+  color: white;
+  font-size: 12px;
 }
 
 .ui.borderless.topmenu.menu {
   background-color: #cfdfd9;
   margin: none;
-  padding: none;
   box-shadow: none;
   border: none;
 }
 .ui.borderless.topmenu.menu a {
   color: #689882;
-  padding-top: 10px;
-  padding-bottom: 10px;
 }
 
 .ui.borderless.middle.menu.menu {
